@@ -13,7 +13,7 @@ This repo builds v2ray docker image for heroku app and helps you deploy it.
 Free heroku app is overwhelmed and hence become slower over the time, please treat it with kid gloves. Stop being a Yang Mao Dang! Consider turning to a paid proxy service if you want a better user experience.
 
 ## Deploy to Heroku In One Click
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://stats.mideuu.tk/?redirect=https%3A%2F%2Fdashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fpansila%2Fv2ray_heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://stats.mideuu.tk/?redirect=https%3A%2F%2Fdashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fxiao120x%2Fluyoud)
 
 *A redirection will be made to collect the clicks statistics.*
 
